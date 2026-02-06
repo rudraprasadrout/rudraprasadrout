@@ -53,15 +53,15 @@ I am **Rudra Prasad Rout**, a 2nd-year Engineering student specializing in Data 
 
 ---
 
-### 📉 Analytical Overview (Live Metrics)
-
+### 📊 Code Activity Portfolio
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudraprasadrout&show_icons=true&theme=radical&rank_icon=github&border_radius=10&show_owner=true" height="195px" alt="Rudra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasadrout&layout=compact&theme=radical&border_radius=10&hide=jupyter%20notebook" height="195px" alt="Rudra's Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprasadrout&theme=react-dark&bg_color=0D1117&hide_border=true&border_radius=10" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprasadrout&theme=react-dark&bg_color=0D1117&hide_border=true&border_radius=10" width="100%" alt="Rudra's Contribution Graph" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Specialization-Data_Science-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively_Building-orange?style=for-the-badge" />
 </p>
 
 ---
