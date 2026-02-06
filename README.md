@@ -53,14 +53,15 @@ I am **Rudra Prasad Rout**, a 2nd-year Engineering student specializing in Data 
 
 ---
 
-### 📊 GitHub Pulse
+### 📉 Analytical Overview (Live Metrics)
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rudraprasadrout&show_icons=true&theme=tokyonight&count_private=true" height="190px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasadrout&layout=compact&theme=tokyonight&hide_border=true" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraprasadrout&show_icons=true&theme=radical&rank_icon=github&border_radius=10&show_owner=true" height="195px" alt="Rudra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraprasadrout&layout=compact&theme=radical&border_radius=10&hide=jupyter%20notebook" height="195px" alt="Rudra's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraprasadrout&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprasadrout&theme=react-dark&bg_color=0D1117&hide_border=true&border_radius=10" width="100%" alt="Rudra's Contribution Graph" />
 </p>
 
 ---
