@@ -46,7 +46,7 @@ I am **Rudra Prasad Rout**, a 2nd-year Engineering student specializing in Data 
 | **CityZen (Hackathon)** | 🏆 **Team Leader & Backend Architect** | [![](https://img.shields.io/badge/Repo-Access-orange?style=for-the-badge)](https://github.com/rudraprasadrout/OpenWorld) |
 | **Laptop Price Predictor** | 🤖 Random Forest Regression Model | [![](https://img.shields.io/badge/View-Code-blue?style=for-the-badge)](https://github.com/rudraprasadrout) |
 | **Mobile Price Prediction** | 📱 End-to-End Classification & API | [![](https://img.shields.io/badge/View-Python-yellow?style=for-the-badge)](https://github.com/rudraprasadrout) |
-| **House Prediction Model** | 🏠 Advanced Regression & Feature Engineering | [![](https://img.shields.io/badge/View-Analysis-red?style=for-the-badge)](https://github.com/rudraprasadrout) |
+| **Score Prediction Model** | 🏏 Advanced Regression & Feature Engineering | [![](https://img.shields.io/badge/View_Project-Analysis-red?style=for-the-badge)](https://github.com/rudraprasadrout/Cricket_score_predictor_CRICSCORE) |
 | **Olympics Dashboard** | 📊 Streamlit Interactive Analytics | [![](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://github.com/rudraprasadrout) |
 
 </div>
