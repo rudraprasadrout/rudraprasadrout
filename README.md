@@ -6,39 +6,17 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-<!-- CORE DEFINITION TERMINAL -->
-<table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
-  <tr bgcolor="#161b22">
-    <td padding="10px">
-      <code><b>root@rudra:~#</b> ./execute_profile.sh --role="Data Scientist & ML Architect"</code>
-    </td>
-  </tr>
-  <tr bgcolor="#0d1117">
-    <td>
-      <p align="center" style="margin: 15px 0;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=EA3939&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Specialist+@+DRIEMS+University;Data+Science+Intern+@+India+Space+Academy;Computer+Vision+%26+Natural+Language+Processing;Agile+Technical+Lead+@+CityZen+Civic+Tech" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <h3>"Bridging mathematical theory with advanced deep learning and functional data applications."[cite: 1]</h3>
-  <p>💡 Committed to translating complex neural architectures into highly scalable, production-ready systems.[cite: 1]</p>
+  <h1>🧬 Aspiring Data Scientist | ML Architect | Pythonista</h1>
+  <p><i>"Bridging mathematical theory with advanced deep learning and functional data applications."</i></p>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+CityZen+Civic+Tech" />
+</p>
 
 ---
 
-### 🧬 Core Architectural Focus
-
-```yml
-Learning: [Deep Learning, Convolutional Neural Networks, Sequence Modeling] #[cite: 1]
-Foundations: [Linear Algebra, Probability, Statistics, Core Systems] #[cite: 1]
-Philosophy: "Turning algorithmic research pipelines into live operational APIs." #[cite: 1]
-Active Track: "100 Days of Machine Learning - CampusX (2026)" #[cite: 1]
-```
 ### 🚀 The Mission
 I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student specializing in Data Science at DRIEMS University. I am deeply committed to the mathematical and algorithmic foundations of Machine Learning, transitioning complex neural networks into functional, deployed real-world data applications.
 
