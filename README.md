@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-
+<p align="center">
+  <img src="./assets/coding.gif" width="360" alt="Animated coding illustration" />
+</p>
 <div align="center">
   <h1>🧬 Aspiring Data Scientist | ML Architect | Pythonista</h1>
   <p><i>"Bridging mathematical theory with advanced deep learning and functional data applications."</i></p>
@@ -13,7 +15,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+CityZen+Civic+Tech" />
-</p>
+
 
 ---
 
@@ -25,16 +27,73 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
 - 🏆 **Leadership:** Spearheaded agile engineering teams to build crowdsourced civic issue platforms.
 - ⚡ **Core Philosophy:** Turning noise into knowledge, and raw text/images into operational APIs.
 
+
 ---
 
 ### 🛠️ Neural Network of Skills
 
-| **Core Math & Analysis** | **Deep Learning & NLP** | **Tools & Deployment** |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> | <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" /> | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> | <img src="https://img.shields.io/badge/Text_Preprocessing-444444?style=flat-square" /> | <img src="https://img.shields.io/badge/Git_%26_GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> | <img src="https://img.shields.io/badge/Tokenization_%26_TF--IDF-444444?style=flat-square" /> | <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=sqlite&logoColor=white" /> |
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding illustration" />
+</p>
+
+
+<table>
+  <tr>
+    <td colspan="4"><strong>🧠 DATA · MACHINE LEARNING · DEEP LEARNING</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" height="38" alt="Python" /><br><sub>Python</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" height="38" alt="NumPy" /><br><sub>NumPy</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" height="38" alt="Pandas" /><br><sub>Pandas</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="38" alt="scikit-learn" /><br><sub>scikit-learn</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="38" alt="TensorFlow" /><br><sub>TensorFlow</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/keras/D00000" height="38" alt="Keras" /><br><sub>Keras</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/CNN-8A2BE2?style=flat-square" height="28" alt="CNN" /><br><sub>CNN</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square" height="28" alt="SQL" /><br><sub>SQL</sub></td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>🤖 NLP · GENERATIVE AI · RETRIEVAL</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/NLP-5B5BD6?style=flat-square" height="28" alt="NLP" /><br><sub>NLP</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/TF--IDF-444444?style=flat-square" height="28" alt="TF-IDF" /><br><sub>TF-IDF</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Tokenization-444444?style=flat-square" height="28" alt="Tokenization" /><br><sub>Tokenization</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square" height="28" alt="Generative AI" /><br><sub>Generative AI</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/RAG-008B8B?style=flat-square" height="28" alt="RAG" /><br><sub>RAG</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Embeddings-008B8B?style=flat-square" height="28" alt="Embeddings" /><br><sub>Embeddings</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" height="38" alt="OpenAI" /><br><sub>OpenAI</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="38" alt="LangChain" /><br><sub>LangChain</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="38" alt="LangGraph" /><br><sub>LangGraph</sub></td>
+    <td colspan="3"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><strong>🌐 BACKEND · CLOUD · DEPLOYMENT · DEVOPS</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/flask/000000" height="38" alt="Flask" /><br><sub>Flask</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" height="38" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/buildkite/14CC80" height="38" alt="Buildkite" /><br><sub>Buildkite</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/181717" height="38" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="38" alt="AWS" /><br><sub>AWS · learning</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="38" alt="Google Cloud" /><br><sub>GCP</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" height="38" alt="Render" /><br><sub>Render</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="38" alt="Netlify" /><br><sub>Netlify</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" height="38" alt="Vercel" /><br><sub>Vercel</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/MLOps-FF8C00?style=flat-square" height="28" alt="MLOps" /><br><sub>MLOps · learning</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -57,6 +116,7 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
 
 ### 💼 Professional Timeline & Experience
 
+* **Top 8 finalist** @ *ESSPL Technova 3.0*  
 * **Data Science Intern** @ *India Space Academy* (2026)  
   *Developed automated Python pipelines and handled complex geospatial data structures to extract actionable analytics insights.*
 * **Team Leader & Data Architect** @ *CityZen Project* (Sep 2025 - Feb 2026)  
