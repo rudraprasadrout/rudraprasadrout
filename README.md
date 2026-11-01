@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+CityZen+Civic+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=f5f425&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Top+8+Finalist+@+ESSPL+Technova+3.0;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+SIH;"/>
 
 
 
