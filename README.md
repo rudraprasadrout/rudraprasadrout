@@ -14,9 +14,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+CityZen+Civic+Tech" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding illustration" />
-</p>
 
 
 ---
@@ -36,13 +33,17 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
 
 <table>
   <tr>
-    <td colspan="4"><strong>🧠 DATA · MACHINE LEARNING · DEEP LEARNING</strong></td>
+    <td width="68%" valign="top">
+<table>
+  <tr>
+    <td colspan="5"><strong>🧠 DATA · MACHINE LEARNING · DEEP LEARNING</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" height="38" alt="Python" /><br><sub>Python</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/numpy/013243" height="38" alt="NumPy" /><br><sub>NumPy</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/pandas/150458" height="38" alt="Pandas" /><br><sub>Pandas</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="38" alt="scikit-learn" /><br><sub>scikit-learn</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="38" alt="OpenCV" /><br><sub>OpenCV</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="38" alt="TensorFlow" /><br><sub>TensorFlow</sub></td>
@@ -51,7 +52,7 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
     <td align="center"><img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square" height="28" alt="SQL" /><br><sub>SQL</sub></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>🤖 NLP · GENERATIVE AI · RETRIEVAL</strong></td>
+    <td colspan="5"><strong>🤖 NLP · GENERATIVE AI · RETRIEVAL</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/NLP-5B5BD6?style=flat-square" height="28" alt="NLP" /><br><sub>NLP</sub></td>
@@ -70,11 +71,12 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
     <td colspan="3"></td>
   </tr>
   <tr>
-    <td colspan="4"><strong>🌐 BACKEND · CLOUD · DEPLOYMENT · DEVOPS</strong></td>
+    <td colspan="5"><strong>🌐 BACKEND · CLOUD · DEPLOYMENT · DEVOPS</strong></td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/flask/000000" height="38" alt="Flask" /><br><sub>Flask</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" height="38" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="38" alt="Streamlit" /><br><sub>Streamlit</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="Docker" /><br><sub>Docker</sub></td>
     <td align="center"><img src="https://cdn.simpleicons.org/buildkite/14CC80" height="38" alt="Buildkite" /><br><sub>Buildkite</sub></td>
   </tr>
@@ -90,8 +92,14 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
     <td align="center"><img src="https://img.shields.io/badge/MLOps-FF8C00?style=flat-square" height="28" alt="MLOps" /><br><sub>MLOps · learning</sub></td>
     <td></td>
   </tr>
+</table>    </td>
+    <td width="32%" valign="middle" align="center">
+      <p align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding illustration" />
+      </p>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ### 🧪 Featured Data Experiments & Engineering Projects
