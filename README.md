@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-<p align="center">
-  <img src="./assets/coding.gif" width="360" alt="Animated coding illustration" />
-</p>
+
 <div align="center">
   <h1>🧬 Aspiring Data Scientist | ML Architect | Pythonista</h1>
   <p><i>"Bridging mathematical theory with advanced deep learning and functional data applications."</i></p>
@@ -15,6 +13,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Data+Science)+@+DRIEMS;Data+Science+Intern+@+India+Space+Academy;Deep+Learning+%26+NLP+Architect;Team+Leader+@+CityZen+Civic+Tech" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding illustration" />
+</p>
 
 
 ---
@@ -31,11 +33,6 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
 ---
 
 ### 🛠️ Neural Network of Skills
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated coding illustration" />
-</p>
-
 
 <table>
   <tr>
