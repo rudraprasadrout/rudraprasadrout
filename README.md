@@ -100,6 +100,7 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🧪 Featured Data Experiments & Engineering Projects
@@ -132,9 +133,6 @@ I am **Rudra Prasad Rout**, a B.Tech Computer Science & Engineering student spec
 ---
 
 ### 📊 Code Activity Portfolio
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudraprasadrout&theme=react-dark&bg_color=0D1117&hide_border=true&border_radius=10" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Language-Python-blue?style=for-the-badge&logo=python" />
